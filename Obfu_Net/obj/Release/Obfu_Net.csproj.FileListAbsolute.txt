@@ -1,0 +1,11 @@
+C:\Users\dev\source\repos\Obfu_Net\Obfu_Net\bin\Release\Obfu_Net.exe.config
+C:\Users\dev\source\repos\Obfu_Net\Obfu_Net\bin\Release\Obfu_Net.exe
+C:\Users\dev\source\repos\Obfu_Net\Obfu_Net\bin\Release\Obfu_Net.pdb
+C:\Users\dev\source\repos\Obfu_Net\Obfu_Net\bin\Release\dnlib.dll
+C:\Users\dev\source\repos\Obfu_Net\Obfu_Net\bin\Release\dnlib.xml
+C:\Users\dev\source\repos\Obfu_Net\Obfu_Net\obj\Release\Obfu_Net.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\Obfu_Net\Obfu_Net\obj\Release\Obfu_Net.csproj.SuggestedBindingRedirects.cache
+C:\Users\dev\source\repos\Obfu_Net\Obfu_Net\obj\Release\Obfu_Net.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\Obfu_Net\Obfu_Net\obj\Release\Obfu_Net.csproj.CopyComplete
+C:\Users\dev\source\repos\Obfu_Net\Obfu_Net\obj\Release\Obfu_Net.exe
+C:\Users\dev\source\repos\Obfu_Net\Obfu_Net\obj\Release\Obfu_Net.pdb
